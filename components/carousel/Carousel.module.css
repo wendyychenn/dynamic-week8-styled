@@ -1,0 +1,8 @@
+.main {
+    display: grid;
+    grid-template: 
+    "left right"
+    "img"
+    ;
+    gap: 20px;
+}
